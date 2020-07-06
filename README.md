@@ -1,1 +1,2 @@
 # Email-Spam-Classification
+The goal of this project is to implement an email spam filter to determine whether an email is spam (spam) or not (ham). I implemented and compared the performance of two supervised learning algorithms: K Nearest Neighbors (KNN) and Naive Bayes. The dataset I used is Enron spam email dataset (~34,000 emails). After training my classifiers on the email data, I used my models to predict whether new email is spam or ham.
